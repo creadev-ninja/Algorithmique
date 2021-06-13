@@ -7,13 +7,13 @@ JavaScript en 5 points
 4.  Tableaux
 5.  Fonctions
 
-[![CreaDev](logo-creadev-210207-R-200.png)](http://www.creadev.ninja/)
+[![CreaDev](images/logo-creadev-210207-R-200.png)](http://www.creadev.ninja/)
 
 Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](https://img.youtube.com/vi/H_vmo_xesic/0.jpg)](https://www.youtube.com/watch?v=H_vmo_xesic)
+[![Le modulo en JavaScript](images/JS-en-5-pts-01-00_presentation.png)](https://www.youtube.com/watch?v=DdAypM6N_24)
 
 # JavaScript en cinq points
 
