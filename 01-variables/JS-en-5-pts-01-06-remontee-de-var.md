@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-01-06-remontee-de-var.png)](https://www.youtube.com/watch?v=DdAypM6N_24)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-01-06-remontee-de-var.png)](https://www.youtube.com/watch?v=Ol-GZeRUPLM)
 
 # JavaScript en cinq points
 ## 1.06 Remontée de variable (*hoisting*)

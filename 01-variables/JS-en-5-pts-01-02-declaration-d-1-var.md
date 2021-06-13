@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-01-02-declaration-d-1-var.png)](https://www.youtube.com/watch?v=W9KlTvff32s)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-01-02-declaration-d-1-var.png)](https://www.youtube.com/watch?v=YKrKhuZypV4)
 
 # JavaScript en cinq points
 ## 1.02 Déclaration d'une variable

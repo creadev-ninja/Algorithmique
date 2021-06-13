@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-01-03-quel-nom-de-var.png)](https://www.youtube.com/watch?v=YKrKhuZypV4)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-01-03-quel-nom-de-var.png)](https://www.youtube.com/watch?v=xLdXPOPzH_o)
 
 # JavaScript en cinq points
 ## 1.03 Comment choisir un nom pour une variable ?

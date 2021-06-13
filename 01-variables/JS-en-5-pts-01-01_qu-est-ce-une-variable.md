@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-01-01_qu-est-ce-une-variable.png)](https://www.youtube.com/watch?v=DdAypM6N_24)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-01-01_qu-est-ce-une-variable.png)](https://www.youtube.com/watch?v=W9KlTvff32s)
 
 # JavaScript en cinq points
 ## 1.01 Qu'est ce qu'une variable ?

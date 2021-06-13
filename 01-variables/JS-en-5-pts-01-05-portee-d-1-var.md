@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-01-05-portee-d-1-var.png)](https://www.youtube.com/watch?v=DdAypM6N_24)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-01-05-portee-d-1-var.png)](https://www.youtube.com/watch?v=8zATz4w-O_c)
 
 # JavaScript en cinq points
 ## 1.05 La portée des variables

@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-01-09-concatenation-de-var.png)](https://www.youtube.com/watch?v=DdAypM6N_24)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-01-09-concatenation-de-var.png)](https://www.youtube.com/watch?v=8GhaJBFO6Ws)
 
 # JavaScript en cinq points
 ## 1.09 La concaténation de variables
