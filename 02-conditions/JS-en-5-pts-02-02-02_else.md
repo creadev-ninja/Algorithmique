@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-02-02-02_else.png)](https://www.youtube.com/watch?v=W9KlTvff32s)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-02-02-02_else.png)](https://www.youtube.com/watch?v=VtU_HYj5UWk)
 
 # JavaScript en cinq points
 ## 2. Conditions

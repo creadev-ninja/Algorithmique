@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-02-03-00_switch.png)](https://www.youtube.com/watch?v=W9KlTvff32s)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-02-03-00_switch.png)](https://www.youtube.com/watch?v=r_bgMvxNEjM)
 
 # JavaScript en cinq points
 ## 2. Conditions
@@ -56,7 +56,9 @@ Exemple
 
 Le [diagramme](Diagram-switch-1-corr.png) de switch.
 
-Comment gérer les cas similaires ?
+
+
+### Comment gérer les cas similaires ?
 
 En retirant les instructions *break* en fin de ligne.
 

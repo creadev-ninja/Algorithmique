@@ -13,7 +13,7 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-02-02-01_if.png)](https://www.youtube.com/watch?v=W9KlTvff32s)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-02-02-01_if.png)](https://www.youtube.com/watch?v=Dsx45fduP64)
 
 # JavaScript en cinq points
 ## 2. Conditions
@@ -39,7 +39,7 @@ Exemple :
 
 L'inconvénient est que si la condition est fausse rien ne se passe. Dans ce cas il faut ajouter une échappatoire avec l'instruction else (alors).
 
-![Diagramme if](../images/diagram/diagram-si-1.png)
+
 
 #
 Référence
