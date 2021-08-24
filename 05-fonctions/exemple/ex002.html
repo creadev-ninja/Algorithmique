@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>fonction - gestionnaire d'évènement</title>
+	<style>
+		.simple {
+			background-color: blue;
+			width: 400px;
+			height: 400px;
+			font-size: 200px;
+		}
+	</style>
+	<script>
+		// fonction et gestionnaire d'évènement
+		// implique que l'objet comporte la détection de l'évènement onClick
+		function changeColor(){
+			document.getElementById("simple").style.backgroundColor="tomato";
+		}
+		// utilisation d'un écouteur d'évènement
+		// ecoute si l'évènement onClick se déclenche sur l'élément
+		document.addEventListener("click", function(){
+			document.getElementById("simple").innerHTML = "Hello World!";
+		}); 
+	</script>
+</head>
+<body>
+	<div id="simple" class="simple" onClick="changeColor(this)"></div>
+
+</body>
+</html>
