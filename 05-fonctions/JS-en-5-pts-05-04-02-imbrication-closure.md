@@ -13,13 +13,13 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
-[![Le modulo en JavaScript](../images/JS-en-5-pts-05-04-02-imbrication-closure.png)](https://www.youtube.com/watch?v=7rsVX8MDzXg)
+[![Le modulo en JavaScript](../images/JS-en-5-pts-05-04-02-imbrication-closure.png)](https://www.youtube.com/watch?v=1IPXLnt7ekg)
 
 # JavaScript en cinq points
 
 ## 5. Fonction
 
-### 5.04.02 imbricatiopn
+### 5.04.02 imbrication
 
 On peut imbriquer une fonction dans une fonction. La fonction imbriquée (interne) devient alors privée par rapport à la fonction (externe) qui la contient. Cela forme une fermeture (closure en anglais) qui ferme l'expression de la fonction c'est-à-dire que la fonction interne hérite des arguments et des variables de la fonction externe et donc contient la portée de cette dernière.
 
