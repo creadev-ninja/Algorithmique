@@ -11,7 +11,7 @@ JavaScript en 5 points
 
 Technologies en jeux : JavaScript
 
-Vous avez juste besoin d’une navigateur et de sa console web.
+Vous avez juste besoin d’un navigateur et de sa console web.
 
 [![Le modulo en JavaScript](images/JS-en-5-pts-01-00_presentation.png)](https://www.youtube.com/watch?v=DdAypM6N_24)
 
@@ -44,7 +44,7 @@ Aborder les bases de l'algorithmique en JavaScript avec juste un navigateur.
     - 2.4 La condition ternaire
 
 - #03 BOUCLES ------------------------------------
-    - 3.1 La boucle While (Tant Que)
+    - 3.1 La boucle While (tant que)
         - 3.1.1 While (tant que)
         - 3.1.2 Boucle infinie et incrémentation
         - 3.1.3 Interrompre une boucle (break)
